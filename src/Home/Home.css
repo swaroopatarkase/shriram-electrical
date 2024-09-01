@@ -1,0 +1,14 @@
+.item-cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    padding: 16px;
+}
+
+.main-title{
+    text-align: center;
+}
+
+.tag-line{
+    text-align: center;
+}
